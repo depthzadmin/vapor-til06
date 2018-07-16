@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella "/Users/kregholgerson/Documents/Git/vapor-til06/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIODarwin/include"
+    export *
+}
